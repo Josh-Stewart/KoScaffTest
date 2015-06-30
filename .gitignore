@@ -1,3 +1,9 @@
+node_modules/
+bower_modules/
+
+# Don't track build output
+dist/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
